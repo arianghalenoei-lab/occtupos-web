@@ -1,4 +1,4 @@
-🐙 The Giant Pacific Octopus: Informational Website
+🐙 The Giant Pacific Octopus: Informational Website link: https://arianghalenoei-lab.github.io/div/
 
 This project is a single-page HTML document (octopus.html) and its corresponding stylesheet (style.css) dedicated to presenting fascinating facts about the Giant Pacific Octopus (GPO).
 
